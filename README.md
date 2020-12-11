@@ -1,5 +1,8 @@
 # Datatron
 
+## About
+This is my first fullstack application with Python Flask.  You can check it out in the link below.
+
 ## Bug Report
 
 If any of you find any bugs in the app,
